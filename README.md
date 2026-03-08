@@ -1,4 +1,4 @@
-# vehicles-dashboard
+# Vehicles-dashboard
 Interactive dashboard for vehicle sales dataset using Streamlit
 
 ## Features
